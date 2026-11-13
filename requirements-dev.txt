@@ -1,0 +1,2 @@
+pytest>=7
+pymoo>=0.6

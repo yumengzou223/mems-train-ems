@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.mat
+*.slx
+*.slxc
+slprj/
+*.asv
+*.m~
+*.bak
+*.bak_*
+*.log
+.DS_Store
