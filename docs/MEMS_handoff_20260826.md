@@ -35,6 +35,8 @@
 
 ## 三、关键结果
 
+> 注（2026-11-13）：本节及下节提到的 `pareto_front.csv`、`pareto_scatter.png`、`pareto_parallel.png` 是旧四目标版本的产物，含已修复的经济性 bug，已从仓库删除；运行 `mrfo_multiobjective.py` 可重新生成。当前结果以 `pareto_front_v2.csv` 为准（见 `MEMS_revisions_20261113.md`）。
+
 40 个非支配解（`pareto_front.csv`）。两端极值：
 
 | 端 | TLC | FC 更换 | 电池更换 | H2 kg | 主要参数 |
